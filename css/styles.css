@@ -1,0 +1,43 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.nom{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 27.5vh;
+    left: 7.5vw;
+}
+
+.titre{
+    padding: 1vh;
+    margin:0;
+    position: absolute;
+    top: 35vh;
+    left: 5vw;
+    width: 15vw;
+    border-radius: .2vh;
+}
+
+.content{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 43vh;
+    width: 25vw;
+    height:30vh;
+    border-radius: .2vh;
+}
+
+.submit{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 78vh;
+    border-radius: .2vh;
+    width: 7.5vw;
+    left: 9vw;
+}
